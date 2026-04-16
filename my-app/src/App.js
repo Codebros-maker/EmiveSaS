@@ -78,7 +78,7 @@ export default function KarsonPage() {
 
           <div className="link-right">
             <div className="icon-box whatsapp">
-              📱
+              <FaWhatsapp />
             </div>
             <span className="arrow">›</span>
           </div>
@@ -98,7 +98,7 @@ export default function KarsonPage() {
 
           <div className="link-right">
             <div className="icon-box instagram">
-              📸
+              <FaInstagram />
             </div>
             <span className="arrow">›</span>
           </div>
